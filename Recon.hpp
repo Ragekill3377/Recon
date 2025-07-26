@@ -4,6 +4,7 @@
 Ugly
 Not Secure
 If you want to make it better, feel free to do so.
+MAKE A PR IF ITS ACTUALLY GOOD< I'LL TAKE ANYTHING
 */
 
 #pragma mark - Recon: a trash encryption lib
